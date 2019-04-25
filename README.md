@@ -1,2 +1,2 @@
 # ExchangeDSC.Reverse
-Script to reverse Exchange DSC repository
+Extract the Desired State Configuration of an existing Exchange Server installation
